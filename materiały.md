@@ -10,5 +10,5 @@ show databases;
 ```
 ## Wybór bazy danych
 ```text
-use (nazwa bazy danych)
+use (nazwa bazy danych);
 ```
