@@ -1,0 +1,9 @@
+## Komendy mysql shell:
+
+## login:
+
+mysql -u (uzytkownik) -p (hasło)
+
+## Pokazanie baz danych:
+
+show databases;
