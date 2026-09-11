@@ -1,6 +1,6 @@
 # Komendy mysql shell:
 
-## login:
+## Połączenie przez CMD z MYSQL:
 ```text
 mysql -u (uzytkownik) -p (hasło)
 ```
