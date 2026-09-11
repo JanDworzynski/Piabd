@@ -12,6 +12,11 @@ mysql -u (uzytkownik) -p (hasło)
 ```text
 show databases;
 ```
+
+<p align="left">
+  <img src="[https://github.com/JanDworzynski/Piabd/blob/main/Zrzut%20ekranu%202026-09-11%20101659.png?raw=true](https://github.com/JanDworzynski/Piabd/blob/main/showdatabases.png?raw=true)" alt="skills" />
+</p>
+
 ## Wybór bazy danych
 ```text
 use (nazwa bazy danych);
