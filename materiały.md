@@ -1,5 +1,5 @@
 # Komendy mysql shell:
-
+Jest to ściąga z komendami MySql na wszelki wypadek jakby coś wypadło z głowy!!!
 ## Połączenie przez CMD z MYSQL:
 ```text
 mysql -u (uzytkownik) -p (hasło)
