@@ -21,3 +21,6 @@ show databases;
 ```text
 use (nazwa bazy danych);
 ```
+<p align="left">
+   <img src="https://github.com/JanDworzynski/Piabd/blob/main/use.png?raw=true" alt=skills" /p>
+</p>   
