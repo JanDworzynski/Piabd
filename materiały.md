@@ -32,3 +32,12 @@ show tables;
 <p align="left">
    <img src="https://github.com/JanDworzynski/Piabd/blob/main/pokazanietabeli.png?raw=true" alt=skills" /p>
 </p>   
+1.Logowanie: mysql -uroot -p
+
+2.Wybór bazy: use nazwabazy;
+
+3.Tworzenie bazy: create database nazwabazy;
+
+4.Tworzenie tabeli: create table nazwatabeli;
+
+5.Pokazywanie zawartości tabeli: describe nazwatebeli;
