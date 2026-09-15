@@ -5,7 +5,7 @@ Jest to ściąga z komendami MySql na wszelki wypadek jakby coś wypadło z gło
 mysql -u (uzytkownik) -p (hasło)
 ```
 <p align="left">
-  <img src="https://github.com/JanDworzynski/Piabd/blob/main/Zrzut%20ekranu%202026-09-11%20101659.png?raw=true" alt="skills" />
+  <img src="https://github.com/JanDworzynski/Piabd/blob/main/zrzuty/login.png?raw=true" alt="skills" />
 </p>
 
 ## Pokazanie baz danych:
