@@ -14,7 +14,7 @@ show databases;
 ```
 
 <p align="left">
-  <img src="https://github.com/JanDworzynski/Piabd/blob/main/showdatabases.png?raw=true" alt="skills" />
+  <img src="https://github.com/JanDworzynski/Piabd/blob/main/zrzuty/showdatabases.png?raw=true" alt="skills" />
 </p>
 
 ## Wybór bazy danych
