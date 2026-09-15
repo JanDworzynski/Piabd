@@ -30,7 +30,7 @@ use (nazwa bazy danych);
 show tables;
 ```
 <p align="left">
-   <img src="https://github.com/JanDworzynski/Piabd/blob/main/pokazanietabeli.png?raw=true" alt=skills" /p>
+   <img src="https://github.com/JanDworzynski/Piabd/blob/main/zrzuty/pokazanietabeli.png?raw=true" alt=skills" /p>
 </p>   
 1.Logowanie: mysql -uroot -p
 
